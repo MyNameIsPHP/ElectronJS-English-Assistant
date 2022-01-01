@@ -1,0 +1,21 @@
+{
+  "name": "electronui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "artyom.js": "^1.0.6",
+    "camb-dict": "^1.0.0",
+    "electron": "^8.5.5",
+    "extended-google-translate-api": "^2.0.0",
+    "gramma": "^1.6.0"
+  }
+}
